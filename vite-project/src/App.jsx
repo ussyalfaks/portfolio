@@ -29,7 +29,7 @@ function App() {
       <section className="section-one">
         <div className="sec-one">
           <div className="greeting-sec">
-            <h1>Hey there, I'm Usman</h1>
+            <h1>Hey there, <span><br /> I'm Usman</span></h1>
           </div>
           <div className="what-sec">
             <h5>i design beatifully simple things, i love what i do.</h5>
